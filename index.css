@@ -27,7 +27,7 @@
 }
 
 .item{
-    width: calc( 100% - 0px); /*se le resta el total de gap visible dividido cantidad de imagenes visibles*/
+    width: calc( 25% - 15px); /*se le resta el total de gap visible dividido cantidad de imagenes visibles*/
     height: 100%;
     flex-shrink: 0;
     box-sizing: border-box;
